@@ -1,5 +1,7 @@
 C:\Users\lwald_000\source\repos\DeckOfCards\DeckOfCards\bin\Debug\netstandard1.4\DeckOfCards.deps.json
 C:\Users\lwald_000\source\repos\DeckOfCards\DeckOfCards\bin\Debug\netstandard1.4\DeckOfCards.dll
 C:\Users\lwald_000\source\repos\DeckOfCards\DeckOfCards\obj\Debug\netstandard1.4\DeckOfCards.csprojResolveAssemblyReference.cache
-C:\Users\lwald_000\source\repos\DeckOfCards\DeckOfCards\obj\Debug\netstandard1.4\DeckOfCards.csproj.CoreCompileInputs.cache
 C:\Users\lwald_000\source\repos\DeckOfCards\DeckOfCards\obj\Debug\netstandard1.4\DeckOfCards.AssemblyInfo.cs
+C:\Users\lwald_000\Source\Repos\DeckOfCards\DeckOfCards\bin\Debug\netstandard1.4\DeckOfCards.pdb
+C:\Users\lwald_000\Source\Repos\DeckOfCards\DeckOfCards\obj\Debug\netstandard1.4\DeckOfCards.dll
+C:\Users\lwald_000\Source\Repos\DeckOfCards\DeckOfCards\obj\Debug\netstandard1.4\DeckOfCards.pdb

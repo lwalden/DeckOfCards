@@ -2,7 +2,7 @@
 
 namespace DeckOfCards
 {
-    public class Card : ICard
+    public class Card
     {
         public eRank Rank
         { get; private set; }
